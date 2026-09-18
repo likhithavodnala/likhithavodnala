@@ -26,7 +26,7 @@ Sri Konda Laxman Telangana State Horticultural University
 
 ##  Featured Projects
 
-###  GeoFlood — Real-Time Flood Detection & Prediction Intelligence System
+###  [GeoFlood — Real-Time Flood Detection & Prediction Intelligence System](https://github.com/likhithavodnala/GeoFlood)
 
 A two-mode geospatial system for post-flood detection and pre-flood risk prediction in the Rispana–Bindal river corridors of Dehradun.
 
@@ -37,7 +37,7 @@ A two-mode geospatial system for post-flood detection and pre-flood risk predict
 
 **Tech:** Python · Sentinel-2 · NDWI · GeoPandas · OSMnx · Streamlit · Folium · Open-Meteo API
 
-###  Smart Crop Planning System Using Machine Learning
+###  [Smart Crop Planning System Using Machine Learning](https://github.com/likhithavodnala/Gujarat_crop_suitability)
 
 A machine-learning-based crop recommendation system integrating village-level soil information with climate data for Gujarat.
 
@@ -48,7 +48,7 @@ A machine-learning-based crop recommendation system integrating village-level so
 
 **Tech:** Python · XGBoost · Random Forest · Scikit-learn · Pandas · Streamlit · NASA POWER API
 
-###  Enterprise GIS Healthcare Portal
+###  [Enterprise GIS Healthcare Portal](https://github.com/likhithavodnala/Enterprise-GIS-healthcare-portal)
 
 A role-based web GIS platform for managing and visualizing Hyderabad hospital spatial data.
 
