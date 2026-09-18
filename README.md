@@ -1,4 +1,4 @@
-# Hi, I'm Likhitha Vodnala 👋
+# Hi, I'm Likhitha Vodnala 
 
 **MSc Agriculture Analytics | Geospatial & Data Analytics | GIS & Remote Sensing | AI/ML | Data Engineering**
 
@@ -24,9 +24,9 @@ Sri Konda Laxman Telangana State Horticultural University
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌊 GeoFlood — Real-Time Flood Detection & Prediction Intelligence System
+###  GeoFlood — Real-Time Flood Detection & Prediction Intelligence System
 
 A two-mode geospatial system for post-flood detection and pre-flood risk prediction in the Rispana–Bindal river corridors of Dehradun.
 
@@ -37,7 +37,7 @@ A two-mode geospatial system for post-flood detection and pre-flood risk predict
 
 **Tech:** Python · Sentinel-2 · NDWI · GeoPandas · OSMnx · Streamlit · Folium · Open-Meteo API
 
-### 🌾 Smart Crop Planning System Using Machine Learning
+###  Smart Crop Planning System Using Machine Learning
 
 A machine-learning-based crop recommendation system integrating village-level soil information with climate data for Gujarat.
 
@@ -48,7 +48,7 @@ A machine-learning-based crop recommendation system integrating village-level so
 
 **Tech:** Python · XGBoost · Random Forest · Scikit-learn · Pandas · Streamlit · NASA POWER API
 
-### 🏥 Enterprise GIS Healthcare Portal
+###  Enterprise GIS Healthcare Portal
 
 A role-based web GIS platform for managing and visualizing Hyderabad hospital spatial data.
 
@@ -61,7 +61,7 @@ A role-based web GIS platform for managing and visualizing Hyderabad hospital sp
 
 ---
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 
 **Programming Languages**
 
@@ -93,9 +93,9 @@ NASA POWER API · Open-Meteo API · ISRO Bhoonidhi Portal · OpenStreetMap
 
 ---
 
-## 📚 Other Academic Projects
+##  Other Academic Projects
 
-### 🌱 AI-Based Vegetation Health & Density Mapping
+###  AI-Based Vegetation Health & Density Mapping
 
 Mapped vegetation health and density across Ludhiana District, Punjab using Resourcesat-2/LISS-III satellite imagery obtained from the ISRO Bhoonidhi Portal.
 
@@ -105,7 +105,7 @@ Mapped vegetation health and density across Ludhiana District, Punjab using Reso
 
 **Tech:** QGIS · Python · Resourcesat-2/LISS-III · NDVI · Remote Sensing · ISRO Bhoonidhi
 
-### 🛰️ Soil Moisture Estimation Using Sentinel-1 SAR
+###  Soil Moisture Estimation Using Sentinel-1 SAR
 
 Estimated volumetric soil moisture over agricultural land in Anantapur District, Andhra Pradesh using Sentinel-1 C-band SAR data.
 
@@ -115,7 +115,7 @@ Estimated volumetric soil moisture over agricultural land in Anantapur District,
 
 **Tech:** Sentinel-1 SAR · SNAP · QGIS · Dubois Model · Oh Model · Topp Model
 
-### 🌫️ Satellite-Based Air Pollution Mapping of Delhi
+###  Satellite-Based Air Pollution Mapping of Delhi
 
 Analyzed spatial and temporal variations in tropospheric NO₂ over Delhi from 2018–2024 using Sentinel-5P TROPOMI satellite data.
 
@@ -125,7 +125,7 @@ Analyzed spatial and temporal variations in tropospheric NO₂ over Delhi from 2
 
 **Tech:** Sentinel-5P TROPOMI · Google Earth Engine · Python · QGIS · Google Colab · Matplotlib
 
-### 💧 Yearly Water Demand Prediction for Paddy — West Bengal
+###  Yearly Water Demand Prediction for Paddy — West Bengal
 
 Developed an XGBoost-based irrigation water-demand prediction system for paddy cultivation using weekly multi-year climate and crop data.
 
@@ -137,7 +137,7 @@ Developed an XGBoost-based irrigation water-demand prediction system for paddy c
 
 ---
 
-## 📜 Certifications & Training
+##  Certifications & Training
 
 - **Climate Change Induced Disasters** — Grade A+ | Indian Institute of Remote Sensing (IIRS), ISRO
 - **Winter Training Programme on Remote Sensing and GIS** | India Space Academy (ISA)
@@ -147,7 +147,7 @@ Developed an XGBoost-based irrigation water-demand prediction system for paddy c
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 GIS Analyst · GIS Developer · Geospatial Data Analyst · Geospatial Data Scientist · Data Analyst · Data Scientist · Data Engineer · AI/ML Engineer
 
@@ -163,7 +163,7 @@ I am particularly interested in projects involving:
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - **LinkedIn:** [Likhitha Vodnala](https://www.linkedin.com/in/likhitha-vodnala-a1a352376)
 - **Email:** [202519021@dau.ac.in](mailto:202519021@dau.ac.in)
